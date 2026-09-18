@@ -1,4 +1,5 @@
 const express = require("express");
+console.log(" THIS AUTH API CODE IS RUNNING ");
 const authRoutes = require("./routes/authRoutes");
 
 const app = express();
